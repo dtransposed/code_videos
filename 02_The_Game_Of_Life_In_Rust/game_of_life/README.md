@@ -1,4 +1,4 @@
-<div align="center">
+<div style="text-align:center">
   ![game_of_life](./game_of_life.gif)
 </div>
 
