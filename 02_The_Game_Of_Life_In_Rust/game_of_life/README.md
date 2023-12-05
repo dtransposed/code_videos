@@ -1,5 +1,5 @@
-<div style="text-align:center">
-  ![game_of_life](./game_of_life.gif)
-</div>
+<p align="center">
+  <img src="./game_of_life.gif" alt="game_of_life">
+</p>
 
-Simple implementation of the Game Of Life in Rust. Video tutorial: https://www.youtube.com/watch?v=UlkAXJ2KTfw
+Simple implementation of the Game Of Life in Rust. Video tutorial: [Game of Life Tutorial](https://www.youtube.com/watch?v=UlkAXJ2KTfw)
